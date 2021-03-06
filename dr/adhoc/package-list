@@ -1,0 +1,5 @@
+net.sf.dynamicreports.adhoc
+net.sf.dynamicreports.adhoc.configuration
+net.sf.dynamicreports.adhoc.exception
+net.sf.dynamicreports.adhoc.report
+net.sf.dynamicreports.adhoc.transformation
